@@ -2,16 +2,6 @@
 # CRUD API with MongoDB and Custom Schema
 This is a CRUD API demonstrating the creation, retrieval, update, and deletion of data using a MongoDB database and a custom schema.
 
-# Table of contents  
-1. [Introduction](#introduction)  
-2. [Some paragraph](#paragraph1)  
-    1. [Sub paragraph](#subparagraph1)  
-3. [Another paragraph](#paragraph2)  
-
-## Screenshots  
-
-![App Screenshot](https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png)
-
 ## Tech Stack  
 
 **Client:** PostMan, ThunderClient
